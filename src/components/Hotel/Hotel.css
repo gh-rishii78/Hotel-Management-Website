@@ -1,0 +1,8 @@
+.loginCart {
+    padding: 50px;
+    height: 380px;
+    width: 420px;
+    margin: 40px auto;
+    background-color: rgb(0,0,0,0.5);
+    border-radius: 10px;
+}
